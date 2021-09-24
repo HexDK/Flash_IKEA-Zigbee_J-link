@@ -1,4 +1,4 @@
-# Flash---Ikea-Zigbee---J-link
+# Flash---IKEA-Zigbee---J-link
 
 
 * ICC-1
