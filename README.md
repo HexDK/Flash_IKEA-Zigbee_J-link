@@ -2,7 +2,7 @@
 
 
 
-# TRÅDFRI moduler
+## TRÅDFRI moduler
 Indtil nu er der identificeret et par variationer af TRÅDFRI -modulerne. De bruger alle mikrokontrollere fremstillet af Silicon Labs. De moduler, der er identificeret, er:
 
 * ICC-1
