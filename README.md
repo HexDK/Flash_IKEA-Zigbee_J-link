@@ -8,3 +8,10 @@ Indtil nu er der identificeret et par variationer af TRÅDFRI -modulerne. De bru
 * ICC-1
 * ICC-A-1
 * MGM210L
+
+
+
+
+
+
+Everthing is lincesed under CC BY-NC-SA 4.0, unless noted otherwised.
